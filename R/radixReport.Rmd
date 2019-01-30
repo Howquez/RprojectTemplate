@@ -1,0 +1,20 @@
+---
+title: "`r projName`"
+description: |
+  Sub Title
+author:
+  - name: Hauke Roggenkamp 
+    url: mailto:hauke.roggenkamp@sinnerschrader.com
+    affiliation: SinnerSchrader Deutschland GmbH
+    affiliation_url: www.sinnerschrader.com
+date: "`r Sys.Date()`"
+output: radix::radix_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r wideViz, eval = FALSE, layout = "l-screen-inset", fig.cap = "caption"}
+
+```
