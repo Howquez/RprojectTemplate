@@ -11,4 +11,11 @@ grey2 <- "#b3b3b3"
 grey3 <- "#666666"
 grey4 <- "#1a1a1a"
 
+
+# Autumn Palette -----
+primary <- "#E9B12B"
+success <- "#225B34"
+danger  <- "#760025"
+info    <- "#000000"
+
 # Other Company's CI -----
